@@ -4,3 +4,5 @@ def displayEarnings(salary, yearsWorked):
     print ("Total salary over all years is" , salary * yearsWorked)
 
 displayEarnings (20000, 10)
+
+#testing commit / push
